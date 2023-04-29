@@ -1,7 +1,5 @@
 # search-engine-with-ranking
 
-# Search Engine
-
 This is a search engine written in Python that includes parsing, indexing, ranking and a graphical user interface.
 
 ## Features
